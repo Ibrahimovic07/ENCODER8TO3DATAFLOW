@@ -76,7 +76,8 @@ Simulate the design to generate timing diagrams and confirm the outputs align wi
 
 **RESULTS**
 
-             The Encoder 8 To 3 was successfully implemented using Dataflow Modelling in Verilog. The functionality was verified against the truth table using simulation, and the outputs matched as expected.
+ The Encoder 8 To 3 was successfully implemented using Dataflow Modelling in Verilog. The functionality was verified against the truth table using simulation, and the outputs matched as expected.
+            
 
 
 
